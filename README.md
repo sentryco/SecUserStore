@@ -1,10 +1,12 @@
+[![Tests](https://github.com/sentryco/SecUserStore/actions/workflows/Tests.yml/badge.svg)](https://github.com/sentryco/SecUserStore/actions/workflows/Tests.yml)
+
 # SecUserStore
 
-> Secure user default
+> Secure user store
 
 ## Description
 
-Secure Storage. Utilizes keychain to securely store sensitive data such as passwords and pin codes. Regular UserDefault are not secure by default. It's possible to extract them with third party software. This library encrypts the data stored in userdefault and stores the key used to encrypt the data in keychain.
+Utilizes keychain to securely store sensitive user data. Regular UserDefault are not secure by default. It's possible to extract them with third party software. This library works like userdefault, with its easy to use inerface but under the hood stores the user data in keychain.
  
 ## Examples
 
