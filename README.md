@@ -6,7 +6,15 @@
 
 ## Description
 
-Utilizes keychain to securely store sensitive user data. Regular UserDefault are not secure by default. It's possible to extract them with third party software. This library works like userdefault, with its easy to use inerface but under the hood stores the user data in keychain.
+Utilizes keychain to securely store sensitive user data. 
+
+## Problem
+
+Regular UserDefault are not secure by default. It's possible to extract them with third party software. 
+
+## Solution
+
+This library works like userdefault, with its easy to use interface but under the hood stores the user data in keychain.
  
 ## Examples
 
