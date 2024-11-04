@@ -1,4 +1,5 @@
 [![Tests](https://github.com/sentryco/SecUserStore/actions/workflows/Tests.yml/badge.svg)](https://github.com/sentryco/SecUserStore/actions/workflows/Tests.yml)
+[![codebeat badge](https://codebeat.co/badges/2aee5e88-5ffe-41d9-848b-983182003de4)](https://codebeat.co/projects/github-com-sentryco-secuserstore-main)
 
 # SecUserStore
 
