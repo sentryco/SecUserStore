@@ -4,7 +4,7 @@ import LocalAuthentication
 /**
  * System util - Consistent way to access app info
  */
-final internal class SysUtil {
+internal final class SysUtil {
    /**
     * Returns a string representing the app identifier prefix needed to make the `access-group` for keychain.
     * - Description: Retrieves the app identifier prefix from the app's `info.plist` file, which is necessary for configuring the keychain access group for sharing data securely between the app and its extensions.
